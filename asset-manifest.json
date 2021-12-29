@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.811e4c71.chunk.css",
-    "main.js": "/static/js/main.b075efa9.chunk.js",
-    "main.js.map": "/static/js/main.b075efa9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e283889f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e283889f.js.map",
+    "main.js": "/static/js/main.25443ae4.chunk.js",
+    "main.js.map": "/static/js/main.25443ae4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a82cc2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a82cc2a.js.map",
     "static/css/2.6e8f2906.chunk.css": "/static/css/2.6e8f2906.chunk.css",
-    "static/js/2.ea776b25.chunk.js": "/static/js/2.ea776b25.chunk.js",
-    "static/js/2.ea776b25.chunk.js.map": "/static/js/2.ea776b25.chunk.js.map",
-    "static/js/3.3098853a.chunk.js": "/static/js/3.3098853a.chunk.js",
-    "static/js/3.3098853a.chunk.js.map": "/static/js/3.3098853a.chunk.js.map",
+    "static/js/2.36b1298a.chunk.js": "/static/js/2.36b1298a.chunk.js",
+    "static/js/2.36b1298a.chunk.js.map": "/static/js/2.36b1298a.chunk.js.map",
+    "static/js/3.28ff6c60.chunk.js": "/static/js/3.28ff6c60.chunk.js",
+    "static/js/3.28ff6c60.chunk.js.map": "/static/js/3.28ff6c60.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.6e8f2906.chunk.css.map": "/static/css/2.6e8f2906.chunk.css.map",
     "static/css/main.811e4c71.chunk.css.map": "/static/css/main.811e4c71.chunk.css.map",
-    "static/js/2.ea776b25.chunk.js.LICENSE.txt": "/static/js/2.ea776b25.chunk.js.LICENSE.txt",
+    "static/js/2.36b1298a.chunk.js.LICENSE.txt": "/static/js/2.36b1298a.chunk.js.LICENSE.txt",
     "static/media/angular-dev-portfolio-1.png": "/static/media/angular-dev-portfolio-1.31389979.png",
     "static/media/angular-dev-portfolio-2.png": "/static/media/angular-dev-portfolio-2.3ba18e91.png",
     "static/media/angular-dev-portfolio-thumb.png": "/static/media/angular-dev-portfolio-thumb.a06ba02e.png",
     "static/media/background.jpg": "/static/media/background.4bf79acf.jpg",
-    "static/media/buckle-blog-1.png": "/static/media/buckle-blog-1.222307d1.png",
-    "static/media/buckle-blog-2.png": "/static/media/buckle-blog-2.913c85f7.png",
-    "static/media/buckle-blog-thumb.png": "/static/media/buckle-blog-thumb.feba95e9.png",
     "static/media/darylbuckle.dev-1.png": "/static/media/darylbuckle.dev-1.34ed0d63.png",
     "static/media/darylbuckle.dev-thumb.png": "/static/media/darylbuckle.dev-thumb.5c5c9a13.png",
     "static/media/dnd-character-sheets-1.png": "/static/media/dnd-character-sheets-1.badbca5f.png",
@@ -98,10 +95,10 @@
     "static/media/tasklist-thumb.png": "/static/media/tasklist-thumb.3f63c0fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e283889f.js",
+    "static/js/runtime-main.8a82cc2a.js",
     "static/css/2.6e8f2906.chunk.css",
-    "static/js/2.ea776b25.chunk.js",
+    "static/js/2.36b1298a.chunk.js",
     "static/css/main.811e4c71.chunk.css",
-    "static/js/main.b075efa9.chunk.js"
+    "static/js/main.25443ae4.chunk.js"
   ]
 }
