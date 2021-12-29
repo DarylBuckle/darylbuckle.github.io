@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.811e4c71.chunk.css",
-    "main.js": "/static/js/main.291db04b.chunk.js",
-    "main.js.map": "/static/js/main.291db04b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e5f1691f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e5f1691f.js.map",
+    "main.js": "/static/js/main.b075efa9.chunk.js",
+    "main.js.map": "/static/js/main.b075efa9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e283889f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e283889f.js.map",
     "static/css/2.6e8f2906.chunk.css": "/static/css/2.6e8f2906.chunk.css",
-    "static/js/2.8b67b194.chunk.js": "/static/js/2.8b67b194.chunk.js",
-    "static/js/2.8b67b194.chunk.js.map": "/static/js/2.8b67b194.chunk.js.map",
-    "static/js/3.9b69ec77.chunk.js": "/static/js/3.9b69ec77.chunk.js",
-    "static/js/3.9b69ec77.chunk.js.map": "/static/js/3.9b69ec77.chunk.js.map",
+    "static/js/2.ea776b25.chunk.js": "/static/js/2.ea776b25.chunk.js",
+    "static/js/2.ea776b25.chunk.js.map": "/static/js/2.ea776b25.chunk.js.map",
+    "static/js/3.3098853a.chunk.js": "/static/js/3.3098853a.chunk.js",
+    "static/js/3.3098853a.chunk.js.map": "/static/js/3.3098853a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.6e8f2906.chunk.css.map": "/static/css/2.6e8f2906.chunk.css.map",
     "static/css/main.811e4c71.chunk.css.map": "/static/css/main.811e4c71.chunk.css.map",
-    "static/js/2.8b67b194.chunk.js.LICENSE.txt": "/static/js/2.8b67b194.chunk.js.LICENSE.txt",
+    "static/js/2.ea776b25.chunk.js.LICENSE.txt": "/static/js/2.ea776b25.chunk.js.LICENSE.txt",
     "static/media/angular-dev-portfolio-1.png": "/static/media/angular-dev-portfolio-1.31389979.png",
     "static/media/angular-dev-portfolio-2.png": "/static/media/angular-dev-portfolio-2.3ba18e91.png",
     "static/media/angular-dev-portfolio-thumb.png": "/static/media/angular-dev-portfolio-thumb.a06ba02e.png",
@@ -79,6 +79,8 @@
     "static/media/react-botw-menu-components-2.png": "/static/media/react-botw-menu-components-2.9734f026.png",
     "static/media/react-botw-menu-components-3.png": "/static/media/react-botw-menu-components-3.de6c35ba.png",
     "static/media/react-botw-menu-components-thumb.png": "/static/media/react-botw-menu-components-thumb.7e3ba0c8.png",
+    "static/media/react-cv-builder-1.png": "/static/media/react-cv-builder-1.4bea2669.png",
+    "static/media/react-cv-builder-thumb.png": "/static/media/react-cv-builder-thumb.70f34815.png",
     "static/media/react-dev-portfolio-builder-1.png": "/static/media/react-dev-portfolio-builder-1.d45138e4.png",
     "static/media/react-dev-portfolio-builder-2.png": "/static/media/react-dev-portfolio-builder-2.2c431c14.png",
     "static/media/react-dev-portfolio-builder-thumb.png": "/static/media/react-dev-portfolio-builder-thumb.ebd8e5d6.png",
@@ -96,10 +98,10 @@
     "static/media/tasklist-thumb.png": "/static/media/tasklist-thumb.3f63c0fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5f1691f.js",
+    "static/js/runtime-main.e283889f.js",
     "static/css/2.6e8f2906.chunk.css",
-    "static/js/2.8b67b194.chunk.js",
+    "static/js/2.ea776b25.chunk.js",
     "static/css/main.811e4c71.chunk.css",
-    "static/js/main.291db04b.chunk.js"
+    "static/js/main.b075efa9.chunk.js"
   ]
 }
